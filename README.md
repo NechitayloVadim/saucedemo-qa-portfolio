@@ -20,4 +20,4 @@ Manual QA testing project for SauceDemo web application
 ## Цель проекта:
 Продемонстрировать навыки ручного тестирования, составления тестовой документации и поиска дефектов.
 ## Tester
-Nechitaulo V.A.
+Nechitaylo V.A.
